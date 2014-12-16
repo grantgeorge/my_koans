@@ -208,7 +208,7 @@ module Neo
       @observations = []
     end
 
-    PROGRESS_FILE_NAME = '.path_progress'
+    PROGRESS_FILE_NAME = 'README.md'
 
     def add_progress(prog)
       @_contents = nil
